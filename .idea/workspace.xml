@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae525eef-7e35-4611-9bc5-963921384fd1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XTMoHCb6qjAs27ZaFE62Y2NrVs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PATH_TO_FX$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jook\IdeaProjects\SDJTwoS20\TemperatureConverter1\src\via\sdj2\thread\view" />
+      <recent name="C:\Users\jook\IdeaProjects\SDJTwoS20\TemperatureConverter1\src\via\sdj2\thread\model" />
+      <recent name="C:\Users\jook\IdeaProjects\SDJTwoS20\TemperatureConverter1\src\via\sdj2\thread" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="via.sdj2.thread.Main" />
+      <module name="TemperatureConverter1" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-13.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="via.sdj2.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="via.sdj2.thread.external.Tester" />
+      <module name="TemperatureConverter1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="via.sdj2.thread.external.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Tester" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae525eef-7e35-4611-9bc5-963921384fd1" name="Default Changelist" comment="" />
+      <created>1581065803724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581065803724</updated>
+      <workItem from="1581065811631" duration="3167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581066638948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1581066638948" />
+    <state x="470" y="85" key="FileChooserDialogImpl" timestamp="1581065939955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="470" y="85" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1581065939955" />
+    <state width="951" height="124" key="GridCell.Tab.0.bottom" timestamp="1581066927472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="951" height="124" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1581066927472" />
+    <state width="951" height="124" key="GridCell.Tab.0.center" timestamp="1581066927472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="951" height="124" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1581066927472" />
+    <state width="951" height="124" key="GridCell.Tab.0.left" timestamp="1581066927471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="951" height="124" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1581066927471" />
+    <state width="951" height="124" key="GridCell.Tab.0.right" timestamp="1581066927472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="951" height="124" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1581066927472" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1581065979699">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1581065979699" />
+  </component>
+</project>
